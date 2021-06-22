@@ -217,12 +217,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
 
-<<<<<<< HEAD
-
-# bueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeenas
-
-=======
-
-# Comentario
-
-> > > > > > > 363d9e9d345c46b6d6f16363a0f42c591f8467c2
+# hola mundo
