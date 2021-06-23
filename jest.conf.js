@@ -39,4 +39,4 @@ function mapTypescriptAliasToJestAlias(alias = {}) {
     }, jestAliases);
   return jestAliases;
 }
-//nuevo comentario
+//nuevo como
