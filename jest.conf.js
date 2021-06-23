@@ -39,4 +39,4 @@ function mapTypescriptAliasToJestAlias(alias = {}) {
     }, jestAliases);
   return jestAliases;
 }
-//HOLaaaaaa
+//nuevo comentario
