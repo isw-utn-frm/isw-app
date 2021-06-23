@@ -39,3 +39,4 @@ function mapTypescriptAliasToJestAlias(alias = {}) {
     }, jestAliases);
   return jestAliases;
 }
+//HOLA
