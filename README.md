@@ -112,7 +112,7 @@ Then navigate to [http://localhost:8080](http://localhost:8080) in your browser.
 
 Refer to [Using JHipster in production][] for more details.
 
-### Packaging as war
+### Packaging as war dogs
 
 To package your application as a war in order to deploy it to an application server, run:
 
