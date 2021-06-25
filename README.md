@@ -2,7 +2,7 @@
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
 
-## Development
+## Development comentado
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
@@ -112,7 +112,7 @@ Then navigate to [http://localhost:8080](http://localhost:8080) in your browser.
 
 Refer to [Using JHipster in production][] for more details.
 
-### Packaging as war
+### Packaging as war dogs
 
 To package your application as a war in order to deploy it to an application server, run:
 
